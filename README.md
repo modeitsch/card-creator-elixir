@@ -1,6 +1,7 @@
 # Cards
 
-**small project card creator**
+**small project card creator
+RRun - mix deps.get**
 
 ## Installation
 
