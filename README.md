@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**small project card creator**
 
 ## Installation
 
